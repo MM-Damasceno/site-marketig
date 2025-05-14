@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
       img: "img/Fundadores/Thiago.png"
     },
     {
-      name: "Thiago Ribeiro- Diretora Criativa",
+      name: "Thiago Ribeiro- Puta",
       desc: "Designer premiada com especialização em branding e identidade visual.",
       img: "img/Fundadores/Maria.png"
     },
